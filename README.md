@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Dean Khanh (@deanqkhanhcoder)
+# 👋 Hello, I'm Phạm Quốc Khánh (@deanqkhanhcoder)
 
 ## 💫 About Me
-I'm a passionate software developer with a focus on building efficient and scalable applications. My journey in tech has equipped me with skills in various programming languages and frameworks, allowing me to tackle diverse challenges in software development.
+I'm a passionate software developer focused on building scalable and impactful applications, as well as a competitive programmer. I have equipped myself with skills in a variety of programming languages ​​and problem-solving processes, allowing me to tackle a variety of approaches to software development and problem-solving.
 
 ## 🔭 What I'm Working On
 - Building innovative solutions to real-world problems
@@ -35,10 +35,6 @@ I'm a passionate software developer with a focus on building efficient and scala
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deanqkhanhcoder)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/deanqkhanhcoder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://deanqkhanhcoder.dev)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Applications with Node.js](https://deanqkhanhcoder.dev/blog/scalable-nodejs)
 - [React Performance Optimization Techniques](https://deanqkhanhcoder.dev/blog/react-performance)
 - [Introduction to Docker for Developers](https://deanqkhanhcoder.dev/blog/docker-intro)
 <!-- BLOG-POST-LIST:END -->
