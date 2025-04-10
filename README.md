@@ -31,10 +31,6 @@ I'm a passionate software developer focused on building scalable and impactful a
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deanqkhanhcoder)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/deanqkhanhcoder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://deanqkhanhcoder.dev)
-- [React Performance Optimization Techniques](https://deanqkhanhcoder.dev/blog/react-performance)
-- [Introduction to Docker for Developers](https://deanqkhanhcoder.dev/blog/docker-intro)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact Me
