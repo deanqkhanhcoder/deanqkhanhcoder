@@ -34,8 +34,8 @@ I'm a passionate software developer focused on building scalable and impactful a
 <!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact Me
-- 📫 Email: contact@deanqkhanhcoder.dev
-- 💬 Discord: deanqkhanh#1234
+- 📫 Email: pquockhanh09102010@gmail.com
+- 💬 Discord: tuitenpqk
 
 ---
 ⭐️ From [deanqkhanhcoder](https://github.com/deanqkhanhcoder)
