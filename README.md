@@ -47,7 +47,7 @@ Here are some of the cool projects and tools I've built:
 *(Check out my GitHub repositories for detailed projects)*
 
 ## 🏅 Achievements
-- HSG Tin học cấp thành phố, miền Trung
+- Giải nhất Tin học trẻ bảng A, giải ba Tin học trẻ bảng B, giải khuyến khích Tin học trẻ bảng D2, giải 3 KHKT cấp quốc gia do đoàn thanh niên tổ chức, ect..
 - High rankings on competitive programming platforms (CSES, LQDOJ, Codeforces)
 - Built automation & productivity tools used personally and shared publicly
 
