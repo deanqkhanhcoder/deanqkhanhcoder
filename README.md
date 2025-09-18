@@ -1,21 +1,22 @@
 # 👋 Hello, I'm Phạm Quốc Khánh (@deanqkhanhcoder)
 
 ## 💫 About Me
-I'm a passionate software developer, competitive programmer, and tech enthusiast. I love building scalable applications, exploring algorithms and data structures, and creating automation tools. I combine technical skills with entrepreneurial thinking to turn ideas into impactful digital solutions.  
+I'm a passionate software developer, competitive programmer, and digital entrepreneur. I love building scalable applications, exploring algorithms & data structures, creating automation tools, and turning ideas into impactful products.  
 
-I have experience in C++, Python, web development, and automation, and I'm constantly pushing myself to learn more advanced topics in cloud architecture, AI, and digital business.
+I combine technical skills with entrepreneurial thinking to tackle real-world challenges in programming, AI, and digital business.
 
 ## 🔭 What I'm Working On
-- Developing efficient algorithms and competitive programming solutions
+- Developing advanced algorithms and competitive programming solutions
 - Building automation tools and digital products for real-world applications
-- Learning advanced backend systems and cloud architecture
-- Contributing to open-source projects and personal tech ventures
+- Learning cloud-native architectures and backend systems
+- Contributing to open-source projects
+- Exploring AI and Machine Learning applications
 
 ## 🌱 I'm Currently Learning
 - Advanced Data Structures & Algorithms (DSA)
-- DevOps and CI/CD pipelines
+- DevOps & CI/CD pipelines
 - Machine Learning fundamentals
-- Techniques for MMO (Make Money Online) tools and digital product growth
+- Strategies for MMO (Make Money Online) products
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,12 +36,38 @@ I have experience in C++, Python, web development, and automation, and I'm const
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deanqkhanhcoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🚀 Projects & Tools
+Here are some of the cool projects and tools I've built:
+- **Competitive Programming Solutions:** CSES, Codeforces, LQDOJ solutions & practice scripts
+- **Automation Tools:** Python scripts for file handling, PDF processing, and web scraping
+- **Web Apps & Dashboards:** React + Node.js apps with real-time features
+- **MMO Digital Tools:** Productivity and digital business utilities
+- **AI Experiments:** Small ML/AI models and experimental projects
+
+*(Check out my GitHub repositories for detailed projects)*
+
+## 🏅 Achievements
+- HSG Tin học cấp thành phố, miền Trung
+- High rankings on competitive programming platforms (CSES, LQDOJ, Codeforces)
+- Built automation & productivity tools used personally and shared publicly
+
+## 📖 Blogs & Tutorials
+- Writing tutorials on C++, DSA, automation, and digital product building
+- Sharing tips for competitive programming and algorithm problem solving
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deanqkhanhcoder)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/tuitenpqk)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@deanqkhanhcoder) *(if any tutorials or streams)*
 
 ## 📧 Contact Me
 - 📫 Email: pquockhanh09102010@gmail.com
+- 💬 Discord: tuitenpqk
+
+## 🎯 Fun Facts
+- Love solving tricky algorithm problems late at night
+- Obsessed with building efficient and smart automation tools
+- Passionate about combining tech and business to create real impact
 
 ---
 ⭐️ From [deanqkhanhcoder](https://github.com/deanqkhanhcoder)
