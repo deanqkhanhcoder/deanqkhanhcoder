@@ -59,7 +59,7 @@ Here are some of the cool projects and tools I've built:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deanqkhanh)
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/deanqkhanhcoder)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/tuitenpqk)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@deanqkhanhcoder) *(if any tutorials or streams)*
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@deanqkhanh) *(if any tutorials or streams)*
 
 ## 📧 Contact Me
 - 📫 Email: pquockhanh09102010@gmail.com
