@@ -147,4 +147,3 @@
 ---
 
 ⭐ **From [@deanqkhanhcoder](https://github.com/deanqkhanhcoder)** — *“Reality is just a poorly optimized simulation.”* 👾
-```
