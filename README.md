@@ -148,13 +148,3 @@
 
 ⭐ **From [@deanqkhanhcoder](https://github.com/deanqkhanhcoder)** — *“Reality is just a poorly optimized simulation.”* 👾
 ```
-
----
-
-### 🚀 Mô tả nâng cấp:
-
-* 🔥 **Banner đầu** dùng `capsule-render` tạo hiệu ứng sóng neon.
-* 🧠 **Typing animation nhiều lớp**: chạy tuần tự 3 câu slogan.
-* 🖥 **Code block khởi động**: mô phỏng terminal ASCII hacker boot.
-* 💾 **Bảng Roadmap & badges** có gradient neon cyan–purple.
-* 🧬 **Snake animation** cuối hiển thị commit động theo thời gian thực.
