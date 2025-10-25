@@ -98,7 +98,6 @@
 ---
 
 ## 🌐 CONNECTIVITY NODES
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://linkedin.com/in/deanqkhanh)
 [![Facebook](https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=00FFCC)](https://facebook.com/deanqkhanhcoder)
 [![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=00FFCC)](https://discord.com/users/tuitenpqk)
 [![YouTube](https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=FF0066)](https://youtube.com/@deanqkhanh)
