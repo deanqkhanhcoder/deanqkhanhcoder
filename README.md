@@ -2,7 +2,7 @@
 <!-- Made by deanqkhanhcoder -->
 <!-- Style: Hacker / Cyberpunk / Matrix aesthetic -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Phạm%20Quốc%20Khánh%20👾&fontAlignY=40&fontColor=00FFCC&color=0:0a0a0a,100:8f00ff&desc=@deanqkhanhcoder&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👾&fontAlignY=40&fontColor=00FFCC&color=0:0a0a0a,100:8f00ff&desc=@deanqkhanhcoder&descAlignY=65&descAlign=50"/>
 </p>
 
 <p align="center">
