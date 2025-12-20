@@ -1,78 +1,96 @@
-<!-- ✦ COMPETITIVE PROGRAMMING README ✦ -->
+<!-- ✦ COMPETITIVE PROGRAMMING · CYBER EDITION ✦ -->
 <!-- Author: deanqkhanhcoder -->
 <!-- Focus: Algorithms • Data Structures • Olympiad CP -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=Competitive%20Programmer&fontAlignY=50&fontColor=00FFCC&color=0:0a0a0a,100:002b36&desc=@deanqkhanhcoder&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Competitive%20Programming&fontAlignY=40&fontColor=00FFCC&color=0:050505,50:002b36,100:3a0ca3&desc=@deanqkhanhcoder&descAlignY=65"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&width=750&lines=Algorithms+%7C+Data+Structures+%7C+Problem+Solving;CSES+%7C+Codeforces+%7C+VNOI+%7C+LQDOJ;Think+in+States.+Optimize+Transitions."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=00FFCC&center=true&vCenter=true&width=800&lines=Algorithms+%7C+Data+Structures+%7C+Problem+Solving;CSES+%7C+Codeforces+%7C+VNOI+%7C+LQDOJ;Define+States.+Optimize+Transitions.+Win."/>
 </p>
+
+---
+
+## ⚙️ SYSTEM BOOT
+```
+
+> initializing competitive environment...
+> loading STL...
+> optimizing compiler flags -O2
+> coder: Phạm Quốc Khánh
+> handle: deanqkhanhcoder
+> mode: OLYMPIAD_CP
+> status: READY
+
+```
 
 ---
 
 ## 🧠 PROFILE
-**Phạm Quốc Khánh**  
-🎯 Competitive Programmer – Algorithm Enthusiast  
-🏫 Focused on **HSG Tin học**, **Olympiad-style problems**, **high-performance C++**
+🎯 **Competitive Programmer** · Algorithm Enthusiast  
+🏫 Target: **HSG Tin học / Olympiad-style problems**  
+💡 Specialize in **state modeling, optimization, edge cases**
 
-> I solve problems by modeling states, optimizing transitions, and eliminating bottlenecks.
+> *I don’t guess solutions. I derive them.*
 
 ---
 
-## ⚙️ PROGRAMMING STACK
+## 💻 CP STACK
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,latex,vscode&theme=dark" />
 </p>
 
-- **Primary language:** C++ (STL, optimization, low-level control)
-- **Secondary:** Python (scripting, testing, brute force)
-- **Tools:** Git · LaTeX · Fast I/O · Debug macros
-
----
-
-## 🧩 CORE SKILLS
-- 🧠 **Data Structures**
-  - Array, Stack, Queue, Deque  
-  - Fenwick Tree, Segment Tree  
-  - Sparse Table, Disjoint Set Union  
-
-- ⚙️ **Algorithms**
-  - Binary Search (classic & on answer)
-  - Greedy, Two Pointers
-  - DFS / BFS / Graph traversal
-  - Shortest Path (Dijkstra, BFS 0-1)
-  - Minimum Spanning Tree (Kruskal, Prim)
-
-- 🧮 **Dynamic Programming**
-  - Knapsack variants
-  - DP on prefix / intervals
-  - Bitmask DP
-  - Digit DP (basic → optimized)
-
-- 🌳 **Graph Theory**
-  - Tree DP
-  - LCA (Binary Lifting)
-  - Bridges & Articulation Points (Tarjan)
-  - Topological Sort
-
----
-
-## 🏁 PRACTICE PLATFORMS
-- 🟢 **CSES Problem Set**
-- 🔵 **Codeforces**
-- 🟡 **VNOI / LQDOJ**
-- 🟣 **OJ luyện HSG Tin học**
-
-> All solutions emphasize **clarity**, **correctness**, and **time–memory efficiency**.
-
----
-
-## 📊 STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deanqkhanhcoder&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deanqkhanhcoder&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00FFCC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Style-Performance--First-8F00FF?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧩 CORE ALGORITHMIC SKILLS
+
+### 🧠 Data Structures
+- Array · Stack · Queue · Deque  
+- Fenwick Tree · Segment Tree  
+- Sparse Table · DSU  
+
+### ⚙️ Algorithms
+- Binary Search (classic / on answer)
+- Greedy · Two Pointers
+- DFS / BFS
+- Dijkstra · 0-1 BFS
+- MST (Kruskal / Prim)
+
+### 🧮 Dynamic Programming
+- Knapsack variants
+- Prefix / Interval DP
+- Bitmask DP
+- Digit DP
+
+### 🌳 Graph & Tree
+- Tree DP
+- LCA (Binary Lifting)
+- Bridges & Articulation Points (Tarjan)
+- Topological Sort
+
+---
+
+## 🏁 TRAINING ARENA
+<p align="center">
+  <img src="https://img.shields.io/badge/CSES-Problem_Set-00FFCC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Codeforces-Contests-1F8ACB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VNOI-HSG_Tasks-8F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LQDOJ-Practice-222222?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 PERFORMANCE METRICS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deanqkhanhcoder&show_icons=true&theme=tokyonight&hide_border=true" height="155">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deanqkhanhcoder&theme=tokyonight&hide_border=true" height="155">
 </p>
 
 <p align="center">
@@ -81,59 +99,51 @@
 
 ---
 
-## 🏆 ACHIEVEMENTS
-- 🥇 **Giải Nhất Tin học trẻ** (Bảng A)
-- 🥉 **Giải Ba KHKT Quốc Gia**
-- 🧮 High performance on **CSES / CF / VNOI**
-- 📚 Tự xây dựng **chuyên đề thuật toán** (DP, Graph, Tree)
-
----
-
-## 🧬 TRAINING ROADMAP
-| Phase | Focus |
-|------|------|
-| Phase 1 | Solid C++ · STL · Basic DS |
-| Phase 2 | DSA nâng cao · DP · Graph |
-| Phase 3 | Giải đề HSG · OI-style |
-| Phase 4 | Optimization · Tricks · Edge cases |
-
----
-
-## 📂 REPOSITORY STRUCTURE
-- `/CSES/` – CSES Problem Set solutions  
-- `/Codeforces/` – Contest & practice problems  
-- `/VNOI/` – HSG-style & national problems  
-- `/Templates/` – CP templates & snippets  
-- `/Notes/` – Algorithm notes & explanations  
-
----
-
-## 🧪 CP PHILOSOPHY
+## 🏆 ACHIEVEMENT LOG
 ```
 
-State definition > Transition > Optimization
-Correctness first, speed second.
-If brute works, optimize it.
-If greedy fails, try DP.
-If DP fails, rethink the state.
+✔ Giải Nhất Tin học trẻ (Bảng A)
+✔ Giải Ba KHKT Quốc Gia
+✔ High-rank performance on CSES / CF / VNOI
+✔ Self-written algorithm notes & CP templates
+
+```
+
+---
+
+## 📂 REPOSITORY MAP
+- 📁 `/CSES` — full problem set solutions  
+- 📁 `/Codeforces` — contests & gym  
+- 📁 `/VNOI` — HSG / OI-style tasks  
+- 📁 `/Templates` — Fenwick, SegTree, DP  
+- 📁 `/Notes` — algorithm explanations  
+
+---
+
+## 🧪 CP MINDSET
+```
+
+State > Transition > Optimization
+AC > WA > TLE > AC
+No hacks. No luck. Only logic.
 
 ```
 
 ---
 
 ## 🌐 CONTACT
-- GitHub: **@deanqkhanhcoder**
-- Email: `pquockhanh09102010@gmail.com`
+📌 GitHub: **@deanqkhanhcoder**  
+📫 Email: `pquockhanh09102010@gmail.com`
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Competitive_Programming-00FFCC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mode-Competitive_CP-00FFCC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Compiler-G++_O2-8F00FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Grinding-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
-⭐ *“Every problem is solvable if the state is right.”*  
-— **@deanqkhanhcoder**
+⭐ **@deanqkhanhcoder**  
+*“Every hard problem is just an unoptimized state.”*
