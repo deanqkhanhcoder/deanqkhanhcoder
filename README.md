@@ -1,148 +1,139 @@
-<!-- ✦ ULTIMATE DARK CYBER README ✦ -->
-<!-- Made by deanqkhanhcoder -->
-<!-- Style: Hacker / Cyberpunk / Matrix aesthetic -->
+<!-- ✦ COMPETITIVE PROGRAMMING README ✦ -->
+<!-- Author: deanqkhanhcoder -->
+<!-- Focus: Algorithms • Data Structures • Olympiad CP -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👾&fontAlignY=40&fontColor=00FFCC&color=0:0a0a0a,100:8f00ff&desc=@deanqkhanhcoder&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=Competitive%20Programmer&fontAlignY=50&fontColor=00FFCC&color=0:0a0a0a,100:002b36&desc=@deanqkhanhcoder&descAlignY=75"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=700&color=00FFCC&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Competitive+Programmer+%7C+Automation+Architect;Building+Scalable+Systems+%E2%80%A2+Crafting+Intelligent+Tools;Think+Like+an+Engineer%2C+Act+Like+a+Hacker." alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&width=750&lines=Algorithms+%7C+Data+Structures+%7C+Problem+Solving;CSES+%7C+Codeforces+%7C+VNOI+%7C+LQDOJ;Think+in+States.+Optimize+Transitions."/>
 </p>
 
 ---
 
-### ⚙️ SYSTEM INITIALIZATION
+## 🧠 PROFILE
+**Phạm Quốc Khánh**  
+🎯 Competitive Programmer – Algorithm Enthusiast  
+🏫 Focused on **HSG Tin học**, **Olympiad-style problems**, **high-performance C++**
+
+> I solve problems by modeling states, optimizing transitions, and eliminating bottlenecks.
+
+---
+
+## ⚙️ PROGRAMMING STACK
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,latex,vscode&theme=dark" />
+</p>
+
+- **Primary language:** C++ (STL, optimization, low-level control)
+- **Secondary:** Python (scripting, testing, brute force)
+- **Tools:** Git · LaTeX · Fast I/O · Debug macros
+
+---
+
+## 🧩 CORE SKILLS
+- 🧠 **Data Structures**
+  - Array, Stack, Queue, Deque  
+  - Fenwick Tree, Segment Tree  
+  - Sparse Table, Disjoint Set Union  
+
+- ⚙️ **Algorithms**
+  - Binary Search (classic & on answer)
+  - Greedy, Two Pointers
+  - DFS / BFS / Graph traversal
+  - Shortest Path (Dijkstra, BFS 0-1)
+  - Minimum Spanning Tree (Kruskal, Prim)
+
+- 🧮 **Dynamic Programming**
+  - Knapsack variants
+  - DP on prefix / intervals
+  - Bitmask DP
+  - Digit DP (basic → optimized)
+
+- 🌳 **Graph Theory**
+  - Tree DP
+  - LCA (Binary Lifting)
+  - Bridges & Articulation Points (Tarjan)
+  - Topological Sort
+
+---
+
+## 🏁 PRACTICE PLATFORMS
+- 🟢 **CSES Problem Set**
+- 🔵 **Codeforces**
+- 🟡 **VNOI / LQDOJ**
+- 🟣 **OJ luyện HSG Tin học**
+
+> All solutions emphasize **clarity**, **correctness**, and **time–memory efficiency**.
+
+---
+
+## 📊 STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deanqkhanhcoder&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deanqkhanhcoder&theme=tokyonight&hide_border=true" height="150">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanqkhanhcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+- 🥇 **Giải Nhất Tin học trẻ** (Bảng A)
+- 🥉 **Giải Ba KHKT Quốc Gia**
+- 🧮 High performance on **CSES / CF / VNOI**
+- 📚 Tự xây dựng **chuyên đề thuật toán** (DP, Graph, Tree)
+
+---
+
+## 🧬 TRAINING ROADMAP
+| Phase | Focus |
+|------|------|
+| Phase 1 | Solid C++ · STL · Basic DS |
+| Phase 2 | DSA nâng cao · DP · Graph |
+| Phase 3 | Giải đề HSG · OI-style |
+| Phase 4 | Optimization · Tricks · Edge cases |
+
+---
+
+## 📂 REPOSITORY STRUCTURE
+- `/CSES/` – CSES Problem Set solutions  
+- `/Codeforces/` – Contest & practice problems  
+- `/VNOI/` – HSG-style & national problems  
+- `/Templates/` – CP templates & snippets  
+- `/Notes/` – Algorithm notes & explanations  
+
+---
+
+## 🧪 CP PHILOSOPHY
 ```
 
-> system booting...
-> connecting neural core...
-> identity confirmed: [Phạm Quốc Khánh]
-> codename: @deanqkhanhcoder
-> access level: root
-> status: online ✅
-> environment: dark_terminal_mode
-> executing startup.sh ...
-> ██████╗ ███████╗ █████╗ ███╗   ██╗ ██████╗ ██╗  ██╗
-> ██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔════╝ ██║ ██╔╝
-> ██║  ██║█████╗  ███████║██╔██╗ ██║██║  ███╗█████╔╝
-> ██║  ██║██╔══╝  ██╔══██║██║╚██╗██║██║   ██║██╔═██╗
-> ██████╔╝███████╗██║  ██║██║ ╚████║╚██████╔╝██║  ██╗
-> ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-
-```
-
-🧠 *Software Developer • Algorithmist • Automation Engineer*  
-⚙️ I build systems that scale, code that thinks, and tools that make digital life smarter.  
-💼 Combining **engineering precision** + **entrepreneurial execution**.
-
----
-
-## 💻 TECH ARSENAL
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,react,nodejs,git,latex,bash,vscode&theme=dark" />
-</p>
-
----
-
-## 🔮 CURRENT OPERATIONS
-- 🧠 **Advanced DSA mastery** & algorithmic optimization  
-- ⚙️ **Automation frameworks** (PDFs, file systems, web tools)  
-- ☁️ **Cloud-native backends** & distributed design  
-- 🤖 **AI + MMO hybrid** experiments  
-- 🧩 **Open-source** contribution & research  
-
----
-
-## 📊 SYSTEM METRICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deanqkhanhcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deanqkhanhcoder&theme=tokyonight&hide_border=true" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanqkhanhcoder&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="160">
-</p>
-
----
-
-## 🏆 ACHIEVEMENT MATRIX
-![](https://github-profile-trophy.vercel.app/?username=deanqkhanhcoder&theme=matrix&no-frame=true&no-bg=true&margin-w=10)
-
----
-
-## 🧩 FEATURED PROJECTS
-🧠 **Competitive Programming Engines:** CSES / Codeforces / LQDOJ solutions  
-⚙️ **Automation Tools:** PDF unlockers, web scrapers, file batch handlers  
-🌐 **Fullstack Webs:** React + Node.js + real-time dashboards  
-💼 **MMO Systems:** Productivity & digital business frameworks  
-🧠 **AI Experiments:** ML mini-models & automation integration  
-
-> 💡 *Explore my pinned repositories for detailed project insights.*
-
----
-
-## 🏅 MILESTONES
-- 🥇 **Giải Nhất Tin học trẻ** (Bảng A) · 🥉 **Giải 3 KHKT Quốc Gia**  
-- 🧮 Consistent top ranks on **CSES / Codeforces / LQDOJ**  
-- ⚙️ Creator of multiple **automation utilities** used by devs globally  
-
----
-
-## 🧬 ROADMAP v3.1
-| Phase | Focus | Objective |
-|-------|--------|-----------|
-| 0x01 | Short-term | 🧠 Master DSA · ⚙️ Build automation suites · 💥 Daily CP grind |
-| 0x02 | Mid-term | ☁️ Learn DevOps & Cloud · 🚀 Launch digital product · 🧩 Contribute OSS |
-| 0x03 | Long-term | 🧠 Integrate ML · 🏗️ Design scalable backend · 💼 Grow MMO ventures |
-
----
-
-## 🌐 CONNECTIVITY NODES
-[![Facebook](https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=00FFCC)](https://facebook.com/deanqkhanhcoder)
-[![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=00FFCC)](https://discord.com/users/tuitenpqk)
-[![YouTube](https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=FF0066)](https://youtube.com/@deanqkhanh)
-
-📫 `pquockhanh09102010@gmail.com`
-
----
-
-## 🎭 BADGE WALL
-<p align="center">
-  <img src="https://img.shields.io/badge/Night_Owl_Coder-00FFCC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation_Freak-8F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA_Addict-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CyberMind-101010?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hackathon_Survivor-1F1F1F?style=for-the-badge"/>
-</p>
-
----
-
-## ⚡ FUN ZONE
-```
-
-> alias inspiration="solve_at_3am --music 'lofi hacker beats'"
-> loop forever { learn(); build(); optimize(); }
-> motto="Code. Automate. Dominate."
-> executing sleep(0);
+State definition > Transition > Optimization
+Correctness first, speed second.
+If brute works, optimize it.
+If greedy fails, try DP.
+If DP fails, rethink the state.
 
 ```
 
 ---
 
-<h3 align="center">🧠 SYSTEM STATUS: STABLE | ACTIVE | SYNCHRONIZED ⚙️</h3>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+## 🌐 CONTACT
+- GitHub: **@deanqkhanhcoder**
+- Email: `pquockhanh09102010@gmail.com`
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v3.1-00FFCC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mode-Hacker-8F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Competitive_Programming-00FFCC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Grinding-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
-⭐ **From [@deanqkhanhcoder](https://github.com/deanqkhanhcoder)** — *“Reality is just a poorly optimized simulation.”* 👾
+⭐ *“Every problem is solvable if the state is right.”*  
+— **@deanqkhanhcoder**
