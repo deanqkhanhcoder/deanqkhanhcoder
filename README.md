@@ -3,7 +3,17 @@
 <!-- Focus: Algorithms • Data Structures • Olympiad CP -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Competitive%20Programming&fontAlignY=40&fontColor=00FFCC&color=0:050505,50:002b36,100:3a0ca3&desc=@deanqkhanhcoder&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api
+  ?type=waving
+  &height=260
+  &text=Competitive%20Programming
+  &fontSize=58
+  &fontAlignY=38
+  &fontColor=00FFCC
+  &desc=@deanqkhanhcoder
+  &descSize=22
+  &descAlignY=65
+  &color=0:050505,50:002b36,100:3a0ca3"/>
 </p>
 
 <p align="center">
