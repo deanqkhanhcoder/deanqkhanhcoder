@@ -7,7 +7,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=00FFCC&center=true&vCenter=true&width=800&lines=Algorithms+%7C+Data+Structures+%7C+Problem+Solving;CSES+%7C+Codeforces+%7C+VNOI+%7C+LQDOJ;Define+States.+Optimize+Transitions.+Win."/>
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=JetBrains+Mono
+  &weight=700
+  &size=28
+  &duration=2200
+  &pause=600
+  &color=00FFCC
+  &center=true
+  &vCenter=true
+  &width=1000
+  &lines=Algorithms+%7C+Data+Structures+%7C+Problem+Solving;CSES+%7C+Codeforces+%7C+VNOI+%7C+LQDOJ;Define+States.+Optimize+Transitions.+Win."/>
 </p>
 
 ---
