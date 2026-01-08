@@ -3,10 +3,6 @@
 <!-- Focus: Algorithms • Data Structures • Olympiad CP -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Competitive%20Programming&fontAlignY=40&fontColor=00FFCC&color=0:050505,50:002b36,100:3a0ca3&desc=@deanqkhanhcoder&descAlignY=65"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=00FFCC&center=true&vCenter=true&width=800&lines=Algorithms+%7C+Data+Structures+%7C+Problem+Solving;CSES+%7C+Codeforces+%7C+VNOI+%7C+LQDOJ;Define+States.+Optimize+Transitions.+Win."/>
 </p>
 
